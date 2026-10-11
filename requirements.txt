@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+moviepy>=1.0.3
+pydub>=0.25.1
+audioop-lts
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+openai-whisper>=20231117
+torch
+tqdm
+imageio-ffmpeg
